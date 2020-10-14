@@ -9,7 +9,7 @@ Each Functionnality groups several components to develop as UserStories under th
 
 ## Fct.1 - Project Framing.
 ---
-- @MainDevelopers:
+- @MainDevelopers: Benoit
 - @SecondaryDevelopers:
 ---
 
@@ -24,8 +24,8 @@ This functionality cover a framework for the team of developers.
 
 ## Fct.2 - NetWorld
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Maxence, Benjamin
+- @SecondaryDevelopers: Elias
 ---
 
 NetWorld represent the center piece of the game engine. It is the programme component that glue all the others. 
@@ -41,7 +41,7 @@ It is an environment for the game entities, viewed as a planar graph modelling a
 ## Fct.3 - Entities
 
 ---
-- @MainDevelopers:
+- @MainDevelopers: Nguyen, Marc
 - @SecondaryDevelopers:
 ---
 
@@ -59,7 +59,7 @@ Entities are the game element capable of actions. This functionality mainly regr
 
 ## Fct.4 - User Interface
 ---
-- @MainDevelopers:
+- @MainDevelopers: Elias, Benoit
 - @SecondaryDevelopers:
 ---
 
